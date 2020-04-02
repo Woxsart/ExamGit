@@ -1,2 +1,3 @@
 un message
 conflit : modification locale
+conflit : modification sur github
